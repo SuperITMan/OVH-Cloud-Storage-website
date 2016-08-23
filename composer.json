@@ -1,0 +1,7 @@
+{
+  "name": "OVH Public Cloud Storage - Website for download",
+  "description": "This is a website to download files from OVH Public Cloud Storage",
+  "require": {
+    "ovh/ovh": "dev-master"
+  }
+}
